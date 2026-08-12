@@ -1,21 +1,18 @@
-<img width="1024" height="1536" alt="ChatGPT Image Aug 12, 2026, 10_56_30 AM" src="https://github.com/user-attachments/assets/9219e479-7f19-4655-992f-bd579f5dc1d5" />
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:111827,65:4A00E0,100:00C9FF&height=230&section=header&text=SRI%20SAI%20TEJA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20✦%20Vijayawada,%20India&descAlignY=55&descSize=18&fontFamily=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:0D1117,65:4A00E0,100:00C9FF&height=230&section=header&text=SRI%20SAI%20TEJA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20✦%20Vijayawada,%20India&descAlignY=55&descSize=18&fontFamily=Poppins" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=3000&pause=1000&color=9D7CFF&center=true&vCenter=true&width=750&lines=🚀+MERN+Stack+Developer;⚛️+React.js+•+Node.js+•+Express.js+•+MongoDB;💻+Building+Ideas+Into+Real+Applications;🌙+Production+Engineer+by+Day+•+Developer+by+Passion"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=3000&pause=1000&color=B478FF&center=true&vCenter=true&width=750&lines=🚀+MERN+Stack+Developer;⚛️+React.js+•+Node.js+•+Express.js+•+MongoDB;💻+Building+Ideas+Into+Real+Applications;🌙+Production+Engineer+by+Day+•+Developer+by+Passion" />
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Spark-tej&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/Spark-tej?label=FOLLOWERS&style=for-the-badge&color=4A00E0"/>
-
 <img src="https://img.shields.io/badge/OPEN_TO-WORK-00C9FF?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="70%"/>
 
 </div>
 
@@ -42,7 +39,7 @@ I enjoy building **responsive, user-friendly web applications** and turning idea
 <br clear="right"/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="70%"/>
 </div>
 
 <br>
@@ -99,18 +96,18 @@ I enjoy building **responsive, user-friendly web applications** and turning idea
 
 <br>
 
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-161B22?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express.js-161B22?style=flat-square&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="70%"/>
 </div>
 
 <br>
@@ -132,6 +129,8 @@ I enjoy building **responsive, user-friendly web applications** and turning idea
 
 A full-stack social platform built with **React.js & Tailwind CSS**.
 
+<br>
+
 | Feature                  | Status |
 | :----------------------- | :----: |
 | 🔐 Authentication        |    ✅   |
@@ -145,8 +144,8 @@ A full-stack social platform built with **React.js & Tailwind CSS**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/React.js-161B22?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwind-css&logoColor=38BDF8"/>
 
 </div>
 
@@ -162,6 +161,8 @@ A full-stack social platform built with **React.js & Tailwind CSS**.
 
 An end-to-end platform for **blood donation management**.
 
+<br>
+
 | Feature                     | Status |
 | :-------------------------- | :----: |
 | 🧑‍🤝‍🧑 Donor registration |    ✅   |
@@ -174,9 +175,9 @@ An end-to-end platform for **blood donation management**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Express.js-161B22?style=flat-square&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=339933"/>
 
 </div>
 
@@ -190,7 +191,7 @@ An end-to-end platform for **blood donation management**.
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="70%"/>
 </div>
 
 <br>
@@ -199,24 +200,24 @@ An end-to-end platform for **blood donation management**.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Spark-tej&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7CFF&icon_color=00C9FF&text_color=FFFFFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Spark-tej&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B478FF&icon_color=00C9FF&text_color=F0F6FC"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spark-tej&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7CFF&text_color=FFFFFF"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Spark-tej&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=8E2DE2&fire=00C9FF&currStreakLabel=9D7CFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spark-tej&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B478FF&text_color=F0F6FC"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Spark-tej&theme=github-dark&hide_border=true&bg_color=0D1117&color=9D7CFF&line=00C9FF&point=FFFFFF" width="92%"/>
+<img src="https://streak-stats.demolab.com/?user=Spark-tej&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=8E2DE2&fire=00C9FF&currStreakLabel=B478FF"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Spark-tej&theme=github-dark&hide_border=true&bg_color=0D1117&color=B478FF&line=00C9FF&point=FFFFFF" width="92%"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="70%"/>
 </div>
 
 <br>
@@ -225,16 +226,16 @@ An end-to-end platform for **blood donation management**.
 
 <div align="center">
 
-|        🚀       |         💻        |      ⚛️      |       🔗      |      🗄️      |         💼        |
-| :-------------: | :---------------: | :----------: | :-----------: | :-----------: | :---------------: |
-| **MERN Skills** | **Real Projects** | **React.js** | **REST APIs** | **DB Design** | **Opportunities** |
+|             🚀            |             💻             |           ⚛️           |             🔗             |           🗄️          |             💼            |
+| :-----------------------: | :------------------------: | :--------------------: | :------------------------: | :--------------------: | :-----------------------: |
+| **Improving MERN Skills** | **Building Real Projects** | **Mastering React.js** | **Working with REST APIs** | **Learning DB Design** | **Open to Opportunities** |
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00C9FF&height=3&section=header" width="70%"/>
 </div>
 
 <br>
@@ -263,6 +264,6 @@ An end-to-end platform for **blood donation management**.
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,45:4A00E0,75:8E2DE2,100:050505&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,40:4A00E0,75:8E2DE2,100:030712&height=150&section=footer" width="100%"/>
 
 </div>
