@@ -1,211 +1,128 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:4A00E0,70:8E2DE2,100:00C9FF&height=230&section=header&text=Sri%20Sai%20Teja&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18"/>
 
-<a href="https://github.com/Spark-tej">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=00E0A8&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+MERN+Stack+Developer;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB;Building+Ideas+Into+Real+Applications;Production+Engineer+by+Day%2C+Dev+by+Passion" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=B478FF&center=true&vCenter=true&width=700&lines=🚀+MERN+Stack+Developer;⚛️+React.js+%7C+Node.js+%7C+MongoDB;💻+Building+Modern+Web+Applications;🌙+Code+By+Night+%7C+Create+By+Passion"/>
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Spark-tej&label=Profile%20Views&color=00C9FF&style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/followers/Spark-tej?label=Followers&style=for-the-badge&color=00E0A8&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Open_to-Work-00C9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=Spark-tej&label=Profile%20Views&color=8E2DE2&style=for-the-badge"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="4px"/>
+<img src="https://img.shields.io/github/followers/Spark-tej?style=for-the-badge&color=4A00E0"/>
 
 </div>
 
-<br/>
+---
 
-## ⚡ About Me
-
-<img align="right" width="250" src="https://raw.githubusercontent.com/OleksiiBulba/OleksiiBulba/main/dev.gif"/>
+# 👨‍💻 About Me
 
 ```yaml
-Name:      Sri Sai Teja Maddirala
-Role:      MERN Stack Developer
-Location:  Vijayawada, India 🇮🇳
-Currently: Production Engineer @ Jagati Publications
-Learning:  Advanced React patterns & Database design
-Mission:   Build clean, responsive, real-world web apps
-Fun fact:  I debug production issues by day, code by night 🌙
+Name: Sri Sai Teja Maddirala
+Role: MERN Stack Developer
+Location: Vijayawada, India 🇮🇳
+Current Job: Production Engineer
+Focus: Full-Stack Web Development
+Goal: Build scalable web applications
 ```
 
-> 💬 *"Build → Learn → Improve → Repeat"* — my daily loop as a developer.
+💡 Passionate about creating **modern, responsive, and user-friendly applications**.
 
-I enjoy building **responsive, user-friendly web applications** and turning ideas into practical, working solutions. Currently sharpening my full-stack skills, one project at a time.
+🚀 Currently improving **React.js, Node.js, MongoDB, and Full-Stack development skills**.
 
-<br clear="right"/>
+---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="4px"/>
-</div>
-
-## 🧠 Tech Arsenal
+# ⚡ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
 
-**🎨 Frontend**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux&theme=dark" />
+<br><br>
 
-</td>
-<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
-**⚙️ Backend**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<br><br>
 
-</td>
-<td align="center" width="25%">
-
-**🗄️ Database**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-
-</td>
-<td align="center" width="25%">
-
-**🛠️ Tools**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="4px"/>
-</div>
+---
 
-## 🌟 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
+# 🌟 Featured Projects
 
 ### 📱 Momentia
-*Social Media Application*
 
-</div>
+🔹 Social Media Platform
+🔹 Authentication
+🔹 Profiles
+🔹 Followers
+🔹 Notifications
+🔹 Responsive UI
 
-A full-stack social platform built with React.js & Tailwind CSS:
+**Tech:** `React` `Tailwind` `REST API`
 
-| Feature | Status |
-|---|:---:|
-| 🔐 Authentication | ✅ |
-| 👤 Profile management | ✅ |
-| 👥 Followers & following | ✅ |
-| 🔔 Notifications | ✅ |
-| 📱 Responsive UI | ✅ |
-| 🔗 REST API integration | ✅ |
+---
 
-<div align="center">
-<img src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwind-css&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=00E0A8"/>
-</div>
+### 🩸 Blood Donation Management System
 
-</td>
-<td width="50%" valign="top">
+🔹 Donor Registration
+🔹 Blood Requests
+🔹 Authentication
+🔹 Admin Dashboard
 
-<div align="center">
+**Tech:** `MongoDB` `Express` `React` `Node.js`
 
-### 🩸 Blood Donation System
-*AI-Assisted MERN Application*
+---
 
-</div>
-
-An end-to-end platform for blood donation management:
-
-| Feature | Status |
-|---|:---:|
-| 🧑‍🤝‍🧑 Donor registration | ✅ |
-| 🩸 Blood request handling | ✅ |
-| 🔐 Authentication | ✅ |
-| 👨‍💼 Admin dashboard | ✅ |
-| 🔗 REST API integration | ✅ |
-
-<div align="center">
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00E0A8"/>
-<img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=00C9FF"/>
-</div>
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="4px"/>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Spark-tej&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E0A8&icon_color=00C9FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spark-tej&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E0A8&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Spark-tej&theme=dark&hide_border=true&background=0D1117&stroke=00C9FF&ring=00E0A8&fire=00E0A8&currStreakLabel=00C9FF" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Spark-tej&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9FF&line=00E0A8&point=FFFFFF" width="90%"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="4px"/>
-</div>
-
-## 🎯 Current Focus
+# 📊 GitHub Stats
 
 <div align="center">
 
-| 🚀 Improving | 💻 Building | ⚛️ Mastering | 🔗 Working with | 🗄️ Learning | 💼 Status |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| MERN skills | Real projects | React.js | REST APIs | DB design | **Open to work** |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Spark-tej&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spark-tej&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Spark-tej&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 📈 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="4px"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Spark-tej&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
-## 🤝 Connect With Me
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="mailto:tejsork@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-tejsork%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Spark-tej">
-  <img src="https://img.shields.io/badge/GitHub-Spark--tej-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-<a href="tel:7013229385">
-  <img src="https://img.shields.io/badge/Phone-7013229385-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br/><br/>
+</div>
 
-### ⭐ Thanks for stopping by! ⭐
+---
 
-<i>"Build • Learn • Improve • Repeat"</i> 🚀
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,50:121A2B,100:0B0F1A&height=150&section=footer"/>
+### 🌙 Dark Mode Developer
+
+> *Build • Learn • Improve • Repeat 🚀*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:8E2DE2,100:0D1117&height=120&section=footer"/>
 
 </div>
