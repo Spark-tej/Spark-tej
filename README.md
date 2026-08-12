@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:4A00E0,70:8E2DE2,100:00C9FF&height=230&section=header&text=Sri%20Sai%20Teja&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:6A11CB,70:2575FC,100:00C9FF&text=Sri%20Sai%20Teja&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20🚀&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=B478FF&center=true&vCenter=true&width=700&lines=🚀+MERN+Stack+Developer;⚛️+React.js+%7C+Node.js+%7C+MongoDB;💻+Building+Modern+Web+Applications;🌙+Code+By+Night+%7C+Create+By+Passion"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=🚀+MERN+Stack+Developer;⚛️+React.js+Developer;💻+Building+Modern+Web+Applications;🌙+Code+By+Night+%7C+Learn+Everyday"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Spark-tej&label=Profile%20Views&color=8E2DE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Spark-tej&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Spark-tej?style=for-the-badge&color=4A00E0"/>
+<img src="https://img.shields.io/github/followers/Spark-tej?style=for-the-badge&color=6A11CB"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Work-2575FC?style=for-the-badge"/>
 
 </div>
 
@@ -20,58 +22,78 @@
 Name: Sri Sai Teja Maddirala
 Role: MERN Stack Developer
 Location: Vijayawada, India 🇮🇳
-Current Job: Production Engineer
-Focus: Full-Stack Web Development
-Goal: Build scalable web applications
+Current Role: Production Engineer
+Focus: Full-Stack Development
+Learning: Advanced React & Database Design
+Goal: Build real-world web applications
 ```
 
-💡 Passionate about creating **modern, responsive, and user-friendly applications**.
+💻 Passionate about creating **responsive**, **modern**, and **user-friendly** web applications.
 
-🚀 Currently improving **React.js, Node.js, MongoDB, and Full-Stack development skills**.
+🚀 Turning ideas into practical solutions using:
+
+⚛️ React.js • 🟢 Node.js • 🚂 Express.js • 🍃 MongoDB
 
 ---
 
-# ⚡ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
+### Frontend
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=html" /><br><br> <img src="https://skillicons.dev/icons?i=css" /><br><br> <img src="https://skillicons.dev/icons?i=js" /><br><br> <img src="https://skillicons.dev/icons?i=react" /><br><br> <img src="https://skillicons.dev/icons?i=tailwind" /><br><br> <img src="https://skillicons.dev/icons?i=redux" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+---
 
-<br><br>
+### Backend
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=nodejs" /><br><br> <img src="https://skillicons.dev/icons?i=express" />
+
+---
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb" /><br><br> <img src="https://skillicons.dev/icons?i=mysql" />
+
+---
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git" /><br><br> <img src="https://skillicons.dev/icons?i=github" /><br><br> <img src="https://skillicons.dev/icons?i=vscode" /><br><br> <img src="https://skillicons.dev/icons?i=postman" />
 
 </div>
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 📱 Momentia
+## 📱 Momentia
 
-🔹 Social Media Platform
-🔹 Authentication
-🔹 Profiles
-🔹 Followers
-🔹 Notifications
-🔹 Responsive UI
+✨ Social Media Application
 
-**Tech:** `React` `Tailwind` `REST API`
+* 🔐 Authentication
+* 👤 Profiles
+* 👥 Followers & Following
+* 🔔 Notifications
+* 📱 Responsive UI
+* 🔗 REST APIs
+
+`React.js` `Tailwind CSS` `REST APIs`
 
 ---
 
-### 🩸 Blood Donation Management System
+## 🩸 Blood Donation Management System
 
-🔹 Donor Registration
-🔹 Blood Requests
-🔹 Authentication
-🔹 Admin Dashboard
+✨ AI-Assisted MERN Application
 
-**Tech:** `MongoDB` `Express` `React` `Node.js`
+* 🧑‍🤝‍🧑 Donor Registration
+* 🩸 Blood Requests
+* 👨‍💼 Admin Dashboard
+* 🔐 Authentication
+* 🔗 REST APIs
+
+`MongoDB` `Express.js` `React.js` `Node.js`
 
 ---
 
@@ -79,13 +101,13 @@ Goal: Build scalable web applications
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Spark-tej&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Spark-tej&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spark-tej&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spark-tej&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Spark-tej&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Spark-tej&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -119,10 +141,8 @@ Goal: Build scalable web applications
 
 <div align="center">
 
-### 🌙 Dark Mode Developer
+### 🌙 Code • Learn • Build • Repeat 🚀
 
-> *Build • Learn • Improve • Repeat 🚀*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:8E2DE2,100:0D1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C9FF,50:6A11CB,100:0D1117&section=footer"/>
 
 </div>
