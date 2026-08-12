@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=230&section=header&text=SRI%20SAI%20TEJA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20✦%20Vijayawada,%20India&descAlignY=55&descSize=18&fontFamily=Poppins" width="100%"/>
 
 <a href="https://github.com/Spark-tej">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=B478FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+MERN+Stack+Developer;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB;Building+Ideas+Into+Real+Applications;Currently%3A+Production+Engineer+by+Day%2C+Dev+by+Passion" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=B478FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+MERN+Stack+Developer;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB;Building+Ideas+Into+Real+Applications;Production+Engineer+by+Day%2C+Dev+by+Passion" />
 </a>
 
 <br/>
