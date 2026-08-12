@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="ChatGPT Image Aug 12, 2026, 10_56_30 AM" src="https://github.com/user-attachments/assets/9219e479-7f19-4655-992f-bd579f5dc1d5" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:111827,65:4A00E0,100:00C9FF&height=230&section=header&text=SRI%20SAI%20TEJA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20✦%20Vijayawada,%20India&descAlignY=55&descSize=18&fontFamily=Poppins" width="100%"/>
